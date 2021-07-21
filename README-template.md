@@ -30,10 +30,9 @@ Users should be able to:
 ![](./screenshots/mobile.png)
 
 ### Links
-<!-- 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) 
--->
+
+- Solution URL: https://www.frontendmentor.io/solutions/css-grid-iOZkrL6j5
+- Live Site URL: https://krittakan.github.io/huddle-landing-page/
 
 ## My process
 
